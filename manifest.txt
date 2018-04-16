@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Getting started example",
-  "description": "This extension allows the user to change the background color of the current page.",
+  "description": "This extension allows users to find new websites based on their interests",
   "version": "1.0",
 
   "browser_action": {
