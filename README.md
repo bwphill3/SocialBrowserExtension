@@ -1,2 +1,2 @@
 # SocialBrowserExtension
-Capstone1 Social Browser Extension for Chrome
+Capstone Social Browser Extension for Google Chrome
